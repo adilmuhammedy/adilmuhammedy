@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **React,Node js**
 
 - 📫 How to reach me **adilmuhammedy@gmail.com**
-- ![](https://komarev.com/ghpvc/?username=adilmuhammedy)
+- ![](https://komarev.com/ghpvc/?username=adilmuhammedy) 
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
